@@ -1,0 +1,30 @@
+ {
+  "project_info": {
+    "project_number": "275717131222",
+    "firebase_url": "https://khatontaxi25-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "khatontaxi25",
+    "storage_bucket": "khatontaxi25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275717131222:android:13208bb6dfe8569759b277",
+        "android_client_info": {
+          "package_name": "com.example.katon_taxi25"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcPhYdm0uYYgc_4H994b9l7mpRcXrxv-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
